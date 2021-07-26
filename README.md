@@ -6,7 +6,7 @@
 
 ## About.
 I mainly carry out data analysis projects and store the source code and results of the process. I use Python and R as my main technologies, and recently I've been actively taking advantage of GCP. 
-If you want to check the source code of the projects in progress, please check the other branches.
+If you want to check the source code of the projects in progress, please check the other branches in my project.
 
 ## Career
 2021.05 ~ *KOSI(Korea SMEs & Startups Institute)*

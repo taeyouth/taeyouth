@@ -9,7 +9,8 @@ I mainly carry out data analysis projects and store the source code and results 
 If you want to check the source code of the projects in progress, please check the other branches in my project.
 
 ## Career
-2021.05 ~ *KOSI(Korea SMEs & Startups Institute)*
+2021.11 ~    *LotteMart(BIGDATA ANALYSIS TEAM)*
+2021.05 ~ 07 *KOSI(Korea SMEs & Startups Institute)*
 
 
 ## Project list
